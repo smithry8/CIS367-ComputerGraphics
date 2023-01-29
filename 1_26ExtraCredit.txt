@@ -1,0 +1,4 @@
+Make a trinalge and wrap around to makea circle.
+Make another vertex and do the same thing for the eye
+Then do the same thing for the other eye
+Create a 4 vertex rectangle for the mouth
