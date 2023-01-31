@@ -1,4 +1,4 @@
-# smithry8-CIS367-ComputerGraphics.github.io
+# smithry8.github.io
 
-[triangle](
+[triangle](https:smithry8.github.io/InClassAssignments/TriangleAssignment/Triangle.html)
 [gasket](
